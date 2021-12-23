@@ -1,0 +1,31 @@
+commit 889ba8b1ae9296ad4934a4f95c25ea1a9685f984
+Author: Rashawn <arctitan78@gmail.com>
+Date:   Sun Dec 12 12:54:04 2021 -0500
+
+    added the code to create the sqlite3 database
+    add the code for the exercise app
+
+commit a7c0586d71c4719c114393a93a94c9773312b847
+Author: Rashawn <arctitan78@gmail.com>
+Date:   Sat Dec 11 14:41:01 2021 -0500
+
+    uploaded the ex_app.py file
+
+commit a00639931e11913e1b1f113bf96440eafc760453
+Author: Rashawn <arctitan78@gmail.com>
+Date:   Sat Dec 11 14:40:11 2021 -0500
+
+    updloaded the initial python file to create the database
+
+commit da2317859112c69e1e7eb1ab17c7e2559b43aefa
+Author: Rashawn <arctitan78@gmail.com>
+Date:   Sat Dec 11 14:17:02 2021 -0500
+
+    minor edit to the README.md
+
+commit ca341375b77a30a5c6902f7733482d50d76aba07
+Author: Rashawn <arctitan78@gmail.com>
+Date:   Sat Dec 11 14:09:13 2021 -0500
+
+    initiated the repository for the exercise_app project
+    uploaded the README.md file
